@@ -39,10 +39,6 @@ When I'm not coding, you'll find me playing chess (1750 ELO and climbing) or bra
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
 </div>
 
@@ -62,7 +58,7 @@ When I'm not coding, you'll find me playing chess (1750 ELO and climbing) or bra
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RobelBenyam&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -134,9 +130,7 @@ Currently working on some Go projects and exploring system design. I love buildi
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🎵 Spotify Playing
 
-[![Spotify](https://spotify-readme-vercel.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
 
 </div>
 
