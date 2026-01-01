@@ -82,15 +82,6 @@ Currently working on some Go projects and exploring system design. I love buildi
 
 </div>
 
-## 📈 Profile Views
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=RobelBenyam&color=blueviolet&style=for-the-badge&label=Profile+Views)
-
-</div>
-
----
 
 <div align="center">
 
