@@ -44,25 +44,11 @@ When I'm not coding, you'll find me playing chess (1750 ELO and climbing) or bra
 
 
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RobelBenyam&theme=tokyonight&hide_border=true&custom_title=My%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
 ## 🚀 What I'm Building
 
 Currently working on some Go projects and exploring system design. I love building tools that make developers' lives easier and solving problems that matter.
 
-## 📊 My Activity
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobelBenyam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-</div>
 
 ## 🎯 Goals for 2025
 
