@@ -53,9 +53,7 @@ Currently working on some Go projects and exploring system design. I love buildi
 
 - [ ] 🐹 Master **Go language**
 - [ ] 🧠 Learn **system design**
-- [ ] ☁️ Get **AWS Certified**
-- [ ] ♟️ Reach **1800+ ELO** in chess
-- [ ] 🚀 Work on **startup ideas**
+- [ ] ♟️ Reach **2000+ ELO** in chess
 - [ ] 🌟 Contribute to **open source**
 
 ## 💼 Professional Badges
