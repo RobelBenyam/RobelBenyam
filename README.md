@@ -15,7 +15,6 @@ When I'm not coding, you'll find me playing chess (1750 ELO and climbing) or bra
 - 👯 Looking to collaborate on **interesting projects**
 - 💬 Ask me about **Go**, **backend systems**, or **chess**
 - ⚡ Fun fact: I'm a chess enthusiast with 1750 ELO! ♟️
-- 🚀 Dream: Building my own startup one day
 
 ## 🛠️ Tech Stack
 
