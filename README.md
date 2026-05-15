@@ -49,7 +49,7 @@ Currently working on some Go projects and exploring system design. I love buildi
 
 
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 
 - [ ] 🐹 Master **Go language**
 - [ ] 🧠 Learn **system design**
