@@ -1,39 +1,32 @@
 # Robel Benyam
 
-## Professional Summary
+I am a backend developer who loves building things that actually work and solving complex logic problems. I focus on writing clean code, building solid architecture, and understanding how software interacts with the computer's underlying operating system.
 
-I am a systems-focused software engineer specializing in backend infrastructure, native application development, and bare-metal performance optimization. My core focus centers on building runtime-deterministic architectures where manual memory allocation, data density, and cache locality are primary execution constraints.
+I work directly out of a terminal-driven Linux environment (Arch/Omarchy). When I am not writing code, I compete in tactical chess, where I currently hold a 1750 ELO rating and am actively climbing.
 
-Operating within a terminal-centric Linux ecosystem, I design systems to eliminate execution latency and maximize hardware utilization. Outside of engineering, I compete in tactical chess with a current rating of 1750 ELO.
+- Currently building: an in-memory local cache engine from scratch in C++ to learn manual memory management.
+- Learning: Modern C++ syntax and low-level computer system architectures.
+- Tech I enjoy: Go, Python, TypeScript, and native command-line Linux environments.
 
-- Current Focus: Low-latency data parsing engines and memory-mapped local storage layers.
-- Core Technical Target: Modern C++ (C++20/C++23), data-oriented memory design, and POSIX system interfaces.
-- Collaboration Interests: Open-source systems infrastructure, performance optimization tracking, and Linux automation tooling.
-- Core Concepts: Memory allocation control, asynchronous execution patterns, and structural system design.
+## Core Technical Tools
 
-## Technical Capabilities
+### Languages
+- Go, C, Python, TypeScript, JavaScript
 
-### Core Languages & System Frameworks
-- Systems & Native: C++, C, Go, Linux Shell (Bash/POSIX)
-- Application & Scripting: Python, TypeScript, JavaScript
-- Relational Storage: PostgreSQL, SQL Core
+### Systems & Databases
+- Linux Environments (Bash/Terminal configuration)
+- SQL Databases
 
-### Distributed Infrastructure & Runtime Environments
-- Containerization: Docker
-- Cloud Platforms: Amazon Web Services (AWS)
-- Version Control & Toolchains: Git, GCC/Clang Tooling, Linux Environments
+## What I Am Working On Right Now
 
-## Active Projects
+### C++ Key-Value Cache Engine
+I am building a localized storage engine from scratch using C++20. I am using this project to break out of basic tutorial loops and learn exactly how pointers, references, and manual file operations handle data directly inside a computer's RAM.
 
-### Memory-Backed Key-Value Cache Engine
-Developing an in-memory transactional caching layer from scratch using native C++20. The codebase enforces zero runtime heap allocations along the critical path, implementing custom flat array data layouts and direct binary serialization mechanisms to bypass high-level memory layers.
+## Personal Goals for 2026
 
-## Technical Commitments for 2026
-
-- Implement lock-free, single-threaded asynchronous networking primitives.
-- Master assembly-level compilation tracking and CPU cache alignment criteria.
-- Target an absolute rating ceiling of 2000+ ELO in competitive chess.
-- Contribute production-grade performance enhancements to active open-source runtime engines.
+- Build a working, single-threaded backend server entirely in C++.
+- Learn how a CPU cache manages data structure logic.
+- Push my competitive chess rating past 2000+ ELO.
 
 ## Contact & Professional Links
 
