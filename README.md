@@ -1,101 +1,46 @@
-# Hi there, I'm Robel Benyam! 👋
+# Robel Benyam
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Backend+Engineer;Go+%7C+TypeScript+%7C+Systems;Solving+Complex+Problems;Chess+Player+%281750+ELO%29" alt="Typing SVG" />
+  <img src="https://herokuapp.com" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## Professional Summary
 
-Hey there! I'm Robel, a backend engineer who loves solving complex problems and building systems that actually work. Currently diving deep into Go and loving how clean and efficient it feels.
+I am a systems-focused software engineer specializing in backend infrastructure, native application development, and bare-metal performance optimization. My core focus centers on building runtime-deterministic architectures where manual memory allocation, data density, and cache locality are primary execution constraints.
 
-When I'm not coding, you'll find me playing chess (1750 ELO and climbing) or brainstorming startup ideas. I believe in simple solutions, clean code, and good architecture.
+Operating within a terminal-centric Linux ecosystem, I design systems to eliminate execution latency and maximize hardware utilization. Outside of engineering, I compete in tactical chess with a current rating of 1750 ELO.
 
-- 🔭 Working on **Go projects** and **system design**
-- 🌱 Learning **Go language** and **advanced backend patterns**
-- 👯 Looking to collaborate on **interesting projects**
-- 💬 Ask me about **Go**, **backend systems**, or **chess**
-- ⚡ Fun fact: I'm a chess enthusiast with 1750 ELO! ♟️
+- Current Focus: Low-latency data parsing engines and memory-mapped local storage layers.
+- Core Technical Target: Modern C++ (C++20/C++23), data-oriented memory design, and POSIX system interfaces.
+- Collaboration Interests: Open-source systems infrastructure, performance optimization tracking, and Linux automation tooling.
+- Core Concepts: Memory allocation control, asynchronous execution patterns, and structural system design.
 
-## 🛠️ Tech Stack
+## Technical Capabilities
 
-<div align="center">
+### Core Languages & System Frameworks
+- Systems & Native: C++, C, Go, Linux Shell (Bash/POSIX)
+- Application & Scripting: Python, TypeScript, JavaScript
+- Relational Storage: PostgreSQL, SQL Core
 
-### Languages & Frameworks
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+### Distributed Infrastructure & Runtime Environments
+- Containerization: Docker
+- Cloud Platforms: Amazon Web Services (AWS)
+- Version Control & Toolchains: Git, GCC/Clang Tooling, Linux Environments
 
-### Styling & UI
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+## Active Projects
 
-### Database & Cloud
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+### Memory-Backed Key-Value Cache Engine
+Developing an in-memory transactional caching layer from scratch using native C++20. The codebase enforces zero runtime heap allocations along the critical path, implementing custom flat array data layouts and direct binary serialization mechanisms to bypass high-level memory layers.
 
+## Technical Commitments for 2026
 
-</div>
+- Implement lock-free, single-threaded asynchronous networking primitives.
+- Master assembly-level compilation tracking and CPU cache alignment criteria.
+- Target an absolute rating ceiling of 2000+ ELO in competitive chess.
+- Contribute production-grade performance enhancements to active open-source runtime engines.
 
+## Contact & Professional Links
 
-
-## 🚀 What I'm Building
-
-Currently working on some Go projects and exploring system design. I love building tools that make developers' lives easier and solving problems that matter.
-
-
-
-## 🎯 Goals for 2026
-
-- [ ] 🐹 Master **Go language**
-- [ ] 🧠 Learn **system design**
-- [ ] ♟️ Reach **2000+ ELO** in chess
-- [ ] 🌟 Contribute to **open source**
-
-## 💼 Professional Badges
-
-<div align="center">
-
-![Backend Engineer](https://img.shields.io/badge/Backend_Engineer-Expert-61DAFB?style=for-the-badge&logo=server&logoColor=white)
-![Go Developer](https://img.shields.io/badge/Go_Developer-Learning-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript_Developer-Expert-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Chess Player](https://img.shields.io/badge/Chess_Player-1750_ELO-FF6B6B?style=for-the-badge&logo=chess&logoColor=white)
-
-</div>
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://robelbenyam.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/robel-benyam)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robelbenyam7@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RobelBenyam)
-
-</div>
-
-
-<div align="center">
-
-### 💡 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
-
-</div>
-
----
-
-<div align="center">
-
-**⭐ Star my repositories if you find them helpful!**
-
-Made with ❤️ by [Robel Benyam](https://github.com/RobelBenyam)
-
-</div>
+- LinkedIn: https://linkedin.com
+- Email: robelbenyam7@gmail.com
+- GitHub: https://github.com
